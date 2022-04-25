@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Mauricio Navarro Cortes # Nombre completo
-  tagline: Ruby on Rails web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
@@ -20,7 +20,7 @@ sidebar:
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow: 18063575/mauricionc
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -59,9 +59,9 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person passionate for technologies areas like IoT, robotics, telecommunications, and how it works in agriculture areas. I love programming and face with new challenges to solve and.
-    Currently, I want to become a Web back-end developer, and in a future move to other area like IoT or agriculture.
-    I am proactive, and self-taught, but also I like to work in a team, because I learn more about other persons and share our experience and knowledgement
+    I am a person passionate for technologies areas like IoT, robotics, telecommunications, and how it works in agriculture areas. I love programming and face with new challenges to solve.
+    Currently, I want to become a Web back-end developer, I've some knowledge in PHP programming language and Ruby on Rails, MySQL and PostgreSQL as database, and in a future test other areas like IoT or something related.
+    I am proactive, and self-taught, but also I like to work in a team because we share our experience and knowledgement, this a good way to learn too.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -81,16 +81,24 @@ educationcomplete:
     university: BrightCoders
     time: 2021 - Current
     details: |
-      Bootcamp oriented to back-end development using the popular language programmning Ruby, and her popular framework Rails
+      Bootcamp oriented to back-end development using the popular language programmning Ruby, and her popular framework Rails.
+      This bootcamp gave me the necessary skills to look for a good job, skills like Ruby on Rails frameworks, PostgreSQL, HTML5, CSS3, SASS, Bootstrap, JavaScript; not only skills of programming languges, but also skills like Git, GitHub, Agile as a methodology to work, teamwork, communication, search for help on internet, participate on CR, and much more. 
 
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: Engineer Desginer
+    time: 2021 Jan - Currently
+    company: Tata Consultancy Services
+    details: |
+      - Help with SQL queries to solve problems,
+      - Create new configurations for the production team
+
   - role: Member team
     time: 2019 Aug - 2019 Nov
     company: University of Colima
     details: |
-      Hydroponic Systems
+      Hydroponic Systems | school project
 
       Work in a team to develop an hydroponic system monitoring variables like humidity, lightness, PH, and temperature, the monitoring system was developed using an Arduino board, and the respective sensors that were stored in a database.
       The info with the data was deployed in a web page getting the data from the database, this web page was developed with JavaScript, HMTL5, CSS3, AJAX, MySQL and PHP technologies.
@@ -106,10 +114,10 @@ skills:
 
   toolset:
     - name: C
-      level: 20%
+      level: 10%
 
     - name: HTML
-      level: 40%
+      level: 60%
 
     - name: CSS
       level: 40%
@@ -117,20 +125,23 @@ skills:
     - name: Bootstrap
       level: 20%
 
+    - name: SASS
+      level: 10%
+
     - name: JavaScript
-      level: 40%
+      level: 30%
 
     - name: RoR
       level: 20%
 
     - name: PostgreSQL
-      level: 20%
+      level: 10%
     
     - name: MySQL
       level: 20%
 
     - name: PHP
-      level: 40%
+      level: 30%
 
 # NO MODIFICAR
 footer: >
